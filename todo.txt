@@ -1,8 +1,8 @@
 My To-Do List
 =============
 
-- [ ] Buy groceries for the week
-- [ ] Call the dentist to book a checkup
+- [ ] Finish airintake
+- [ ] Take Prez flying
 - [ ] Finish reading chapter 4
-- [ ] Water the plants
-- [ ] Reply to Sarah's email
+- [ ] Beat up Crimson
+- [ ] Reply to Driver's email
